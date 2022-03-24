@@ -1,0 +1,51 @@
+body {    
+    display: flex;
+    justify-content: center;
+}
+/*----------------------------*/
+label {
+    display: inline-block;
+    width: 180px;
+}
+/*----------------------------*/
+h1 {    
+   padding-left: 70px;
+   width: 300px;    
+}
+/*----------------------------*/
+#submit{    
+    margin-top: 0.5in;
+    margin-left: 35%;     
+  }
+/*----------------------------*/
+#Memes {
+    position: absolute;
+    margin-top: 250px;    
+}
+/*----------------------------*/
+img { 
+    margin-left: 50px;    
+    width: 200px;
+    height: 250px; 
+    display: block; 
+    object-fit: contain;
+}
+/*----------------------------*/
+#removeBtn {
+    display: block;
+    margin-left: 95px;    
+    margin-top: .1in;     
+} 
+/*----------------------------*/
+span {    
+    display: block;
+    text-align:center;
+}
+/*----------------------------*/
+hr {
+    width: 300px;
+    margin-left: 0px;
+}
+
+
+
